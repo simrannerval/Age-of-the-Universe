@@ -1,5 +1,7 @@
 ![alt text](https://github.com/simrannerval/Age-of-the-Universe/blob/main/Organization/banner_final.png?raw=true)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simrannerval/Age-of-the-Universe/HEAD)
+
 
 # Age-of-the-Universe
 
