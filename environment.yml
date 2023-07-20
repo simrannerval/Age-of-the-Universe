@@ -9,4 +9,6 @@ dependencies:
   - astroquery
   - astropy
   - scipy
-  - pixell
+  - pip
+  - pip:
+    - pixell
