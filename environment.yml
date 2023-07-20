@@ -3,12 +3,12 @@ channels:
   - conda-forge
 dependencies:
   - python
-  - numpy
-  - matplotlib
-  - pandas
-  - astroquery
-  - astropy
-  - scipy
   - pip
   - pip:
+    - numpy
+    - matplotlib
+    - pandas
+    - astroquery
+    - astropy
+    - scipy
     - pixell
